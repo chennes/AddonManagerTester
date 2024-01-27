@@ -6,7 +6,7 @@
   <date>2024-01-27</date>
   <maintainer email="chennes@freecad.org">Chris Hennes</maintainer>
   <license file="LICENSE">LGPL-2.1-or-later</license>
-  <url type="repository" branch="main">https://github.com/chennes/AddonManagerTester</url>
+  <url type="repository" branch="dev">https://github.com/chennes/AddonManagerTester</url>
 
   <content>
     <workbench>
